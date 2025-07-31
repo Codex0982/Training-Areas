@@ -143,4 +143,4 @@ Health = {
     Zone29 = { name = "Unstable Liquid Uranium", multiplier = 50000, requirement = "15Qd", cframe = CFrame.new() },
     Zone30 = { name = "Violent Nuclear Power", multiplier = 75000, requirement = "100Qd", cframe = CFrame.new() },
     Zone31 = { name = "Ancient Toxic Inferno", multiplier = 115000, requirement = "1Qn", cframe = CFrame.new() }
-},
+}
