@@ -1,0 +1,10 @@
+return {
+    Strength = {
+        Zone1 = { name = "Gym", multiplier = 2, cframe = CFrame.new(100, 20, -50) },
+        Zone2 = { name = "Arena", multiplier = 4, cframe = CFrame.new(200, 30, -150) }
+    },
+    Agility = {
+        Zone1 = { name = "Track", multiplier = 3, cframe = CFrame.new(500, 15, -300) },
+        Zone2 = { name = "Parkour", multiplier = 6, cframe = CFrame.new(600, 25, -400) }
+    }
+}
