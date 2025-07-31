@@ -26,7 +26,7 @@ return {
         Zone24 = { name = "Catacombs Heart", multiplier = 30000, requirement = "32Qd", cframe = CFrame.new() },
         Zone25 = { name = "Crystallized Gen DNA", multiplier = 50000, requirement = "125Qd", cframe = CFrame.new() },
         Zone26 = { name = "Heavens Door", multiplier = 75000, requirement = "500Qd", cframe = CFrame.new() },
-        Zone27 = { name = "Ancient Gate", multiplier = 110000, requirement = "1.5Qn", cframe = CFrame.new() },
+        Zone27 = { name = "Ancient Gate", multiplier = 110000, requirement = "1.5Qn", cframe = CFrame.new() }
     }
 Power = {
     Zone1 = { name = "Dummy", multiplier = 1.5, requirement = "100", cframe = CFrame.new() },
@@ -59,7 +59,7 @@ Power = {
     Zone28 = { name = "Doom Crystal", multiplier = 30000, requirement = "5Qd", cframe = CFrame.new() },
     Zone29 = { name = "Souls Crystal", multiplier = 50000, requirement = "20Qd", cframe = CFrame.new() },
     Zone30 = { name = "Immortal Globe", multiplier = 75000, requirement = "125Qd", cframe = CFrame.new() },
-    Zone31 = { name = "Crystallized Crunch DNA", multiplier = 110000, requirement = "500Qd", cframe = CFrame.new() },
+    Zone31 = { name = "Crystallized Crunch DNA", multiplier = 110000, requirement = "500Qd", cframe = CFrame.new() }
 }
 Psychic = {
     Zone1 = { name = "Campfire", multiplier = 2, requirement = "100", cframe = CFrame.new() },
@@ -89,7 +89,7 @@ Psychic = {
     Zone25 = { name = "Eternal Peace", multiplier = 35000, requirement = "5Qd", cframe = CFrame.new() },
     Zone26 = { name = "Elite Ritual", multiplier = 50000, requirement = "42Qd", cframe = CFrame.new() },
     Zone27 = { name = "Statue Of SPL God", multiplier = 75500, requirement = "165Qd", cframe = CFrame.new() },
-    Zone28 = { name = "Tree Of Life", multiplier = 110000, requirement = "500Qd", cframe = CFrame.new() },
+    Zone28 = { name = "Tree Of Life", multiplier = 110000, requirement = "500Qd", cframe = CFrame.new() }
 }
 Magic = {
     Zone1 = { name = "Unusual Room", multiplier = 3, requirement = "1K", cframe = CFrame.new() },
@@ -107,7 +107,7 @@ Magic = {
     Zone13 = { name = "The Vortex", multiplier = 3000, requirement = "5Qd", cframe = CFrame.new() },
     Zone14 = { name = "Magic Temple", multiplier = 4500, requirement = "45Qd", cframe = CFrame.new() },
     Zone15 = { name = "Summoning Circle", multiplier = 5500, requirement = "175Qd", cframe = CFrame.new() },
-    Zone16 = { name = "Ancient Crystal Ball", multiplier = 8000, requirement = "500Qd", cframe = CFrame.new() },
+    Zone16 = { name = "Ancient Crystal Ball", multiplier = 8000, requirement = "500Qd", cframe = CFrame.new() }
 }
 Health = {
     Zone1 = { name = "Ice Bath", multiplier = 1.5, requirement = "100", cframe = CFrame.new() },
@@ -140,6 +140,6 @@ Health = {
     Zone28 = { name = "Dark Souls", multiplier = 30000, requirement = "5Qd", cframe = CFrame.new() },
     Zone29 = { name = "Unstable Liquid Uranium", multiplier = 50000, requirement = "15Qd", cframe = CFrame.new() },
     Zone30 = { name = "Violent Nuclear Power", multiplier = 75000, requirement = "100Qd", cframe = CFrame.new() },
-    Zone31 = { name = "Ancient Toxic Inferno", multiplier = 115000, requirement = "1Qn", cframe = CFrame.new() },
+    Zone31 = { name = "Ancient Toxic Inferno", multiplier = 115000, requirement = "1Qn", cframe = CFrame.new() }
 }
 }
