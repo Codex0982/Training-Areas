@@ -18,4 +18,3 @@ return {
         Zone16 = { name = "Ancient Crystal Ball", multiplier = 8000, requirement = "500Qd", cframe = CFrame.new() }
     }
 }
-
