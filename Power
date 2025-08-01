@@ -1,1 +1,35 @@
-
+return {
+    Power = {
+        Zone1 = { name = "Dummy", multiplier = 1.5, requirement = "100", cframe = CFrame.new() },
+        Zone2 = { name = "Boxing Bag", multiplier = 2.5, requirement = "500", cframe = CFrame.new() },
+        Zone3 = { name = "Weights", multiplier = 5, requirement = "5K", cframe = CFrame.new() },
+        Zone4 = { name = "Wooden Board", multiplier = 6.5, requirement = "10K", cframe = CFrame.new() },
+        Zone5 = { name = "Bricks Board", multiplier = 7.5, requirement = "15K", cframe = CFrame.new() },
+        Zone6 = { name = "Concrete Board", multiplier = 9, requirement = "20K", cframe = CFrame.new() },
+        Zone7 = { name = "Dead Tree", multiplier = 15, requirement = "32.5K", cframe = CFrame.new() },
+        Zone8 = { name = "Damaged Shelter", multiplier = 20, requirement = "75K", cframe = CFrame.new() },
+        Zone9 = { name = "Durable Fridge", multiplier = 30, requirement = "225K", cframe = CFrame.new() },
+        Zone10 = { name = "Iron Dummy", multiplier = 40, requirement = "500K", cframe = CFrame.new() },
+        Zone11 = { name = "Entire Cabin", multiplier = 60, requirement = "1M", cframe = CFrame.new() },
+        Zone12 = { name = "Car", multiplier = 75, requirement = "2.5M", cframe = CFrame.new() },
+        Zone13 = { name = "Suv", multiplier = 110, requirement = "10M", cframe = CFrame.new() },
+        Zone14 = { name = "Bus", multiplier = 175, requirement = "50M", cframe = CFrame.new() },
+        Zone15 = { name = "Truck", multiplier = 250, requirement = "150M", cframe = CFrame.new() },
+        Zone16 = { name = "Helicopter", multiplier = 400, requirement = "350M", cframe = CFrame.new() },
+        Zone17 = { name = "Old Tank", multiplier = 600, requirement = "1B", cframe = CFrame.new() },
+        Zone18 = { name = "Abandoned Train", multiplier = 1000, requirement = "10B", cframe = CFrame.new() },
+        Zone19 = { name = "Building", multiplier = 1500, requirement = "32.5B", cframe = CFrame.new() },
+        Zone20 = { name = "Ship", multiplier = 2000, requirement = "125B", cframe = CFrame.new() },
+        Zone21 = { name = "Fire Crystal", multiplier = 2750, requirement = "325B", cframe = CFrame.new() },
+        Zone22 = { name = "Frost Crystal", multiplier = 4000, requirement = "750B", cframe = CFrame.new() },
+        Zone23 = { name = "Demonic Shards", multiplier = 6000, requirement = "1.25T", cframe = CFrame.new() },
+        Zone24 = { name = "Meteorite", multiplier = 10000, requirement = "5T", cframe = CFrame.new() },
+        Zone25 = { name = "Obsidian Meteorite", multiplier = 15000, requirement = "25T", cframe = CFrame.new() },
+        Zone26 = { name = "Catacombs Foundation", multiplier = 20000, requirement = "125T", cframe = CFrame.new() },
+        Zone27 = { name = "Extraterrestrial Orb", multiplier = 25000, requirement = "750T", cframe = CFrame.new() },
+        Zone28 = { name = "Doom Crystal", multiplier = 30000, requirement = "5Qd", cframe = CFrame.new() },
+        Zone29 = { name = "Souls Crystal", multiplier = 50000, requirement = "20Qd", cframe = CFrame.new() },
+        Zone30 = { name = "Immortal Globe", multiplier = 75000, requirement = "125Qd", cframe = CFrame.new() },
+        Zone31 = { name = "Crystallized Crunch DNA", multiplier = 110000, requirement = "500Qd", cframe = CFrame.new() }
+    }
+}
