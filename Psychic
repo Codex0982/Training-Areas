@@ -1,1 +1,32 @@
-
+return {
+    Psychic = {
+        Zone1 = { name = "Campfire", multiplier = 2, requirement = "100", cframe = CFrame.new() },
+        Zone2 = { name = "Fresh Air", multiplier = 5, requirement = "1K", cframe = CFrame.new() },
+        Zone3 = { name = "Safe Forest", multiplier = 8, requirement = "5K", cframe = CFrame.new() },
+        Zone4 = { name = "Quiet Room", multiplier = 15, requirement = "32.5K", cframe = CFrame.new() },
+        Zone5 = { name = "Forest Harmony", multiplier = 25, requirement = "250K", cframe = CFrame.new() },
+        Zone6 = { name = "In The Sky", multiplier = 50, requirement = "1M", cframe = CFrame.new() },
+        Zone7 = { name = "Mountain Top", multiplier = 75, requirement = "10M", cframe = CFrame.new() },
+        Zone8 = { name = "Small Waterfall", multiplier = 90, requirement = "32.5M", cframe = CFrame.new() },
+        Zone9 = { name = "Monk Hub", multiplier = 125, requirement = "100M", cframe = CFrame.new() },
+        Zone10 = { name = "Stone Hill", multiplier = 175, requirement = "500M", cframe = CFrame.new() },
+        Zone11 = { name = "The Monk Hub", multiplier = 250, requirement = "1B", cframe = CFrame.new() },
+        Zone12 = { name = "Pure Cave", multiplier = 500, requirement = "5B", cframe = CFrame.new() },
+        Zone13 = { name = "Waterfall Core", multiplier = 1000, requirement = "10B", cframe = CFrame.new() },
+        Zone14 = { name = "Alien Life", multiplier = 1500, requirement = "25B", cframe = CFrame.new() },
+        Zone15 = { name = "Lost Temple", multiplier = 2500, requirement = "100B", cframe = CFrame.new() },
+        Zone16 = { name = "Omega Voltage", multiplier = 5000, requirement = "500B", cframe = CFrame.new() },
+        Zone17 = { name = "Glowy Water", multiplier = 7500, requirement = "1T", cframe = CFrame.new() },
+        Zone18 = { name = "Cult", multiplier = 10000, requirement = "5T", cframe = CFrame.new() },
+        Zone19 = { name = "Monk Temple", multiplier = 12500, requirement = "10T", cframe = CFrame.new() },
+        Zone20 = { name = "Void Atmosphere", multiplier = 15000, requirement = "25T", cframe = CFrame.new() },
+        Zone21 = { name = "Strange Particles", multiplier = 17500, requirement = "100T", cframe = CFrame.new() },
+        Zone22 = { name = "Divine Water", multiplier = 20000, requirement = "250T", cframe = CFrame.new() },
+        Zone23 = { name = "Lava Forest", multiplier = 25000, requirement = "500T", cframe = CFrame.new() },
+        Zone24 = { name = "Top Of The World", multiplier = 30000, requirement = "1Qd", cframe = CFrame.new() },
+        Zone25 = { name = "Eternal Peace", multiplier = 35000, requirement = "5Qd", cframe = CFrame.new() },
+        Zone26 = { name = "Elite Ritual", multiplier = 50000, requirement = "42Qd", cframe = CFrame.new() },
+        Zone27 = { name = "Statue Of SPL God", multiplier = 75500, requirement = "165Qd", cframe = CFrame.new() },
+        Zone28 = { name = "Tree Of Life", multiplier = 110000, requirement = "500Qd", cframe = CFrame.new() }
+    }
+}
