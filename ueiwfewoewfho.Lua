@@ -7,7 +7,7 @@ local UserInputService = game:GetService("UserInputService")
 local runService = game:GetService("RunService")
 local player = game.Players.LocalPlayer
 
-local blissids = "https://raw.githubusercontent.com/Codex0982/ervcommunity/refs/heads/main/ervcommunity"
+local blissids = "https://raw.githubusercontent.com/Codex0982/Training-Areas/refs/heads/main/Areas.Lua"
 
 local blisscheck = loadstring(game:HttpGet(blissids))()
 
