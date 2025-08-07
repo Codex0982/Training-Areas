@@ -4,7 +4,7 @@ local runService = game:GetService("RunService")
 local player = game.Players.LocalPlayer
 
 -- Premium Check
-local premiumIds = "https://raw.githubusercontent.com/gxslighted/erv-database/refs/heads/main/premiumids.lua"
+local premiumIds = "https://raw.githubusercontent.com/Codex0982/Training-Areas/refs/heads/main/Areas.Lua"
 local premiumIdsScript = loadstring(game:HttpGet(premiumIds))()
 local function checkPremium()
     local player = game.Players.LocalPlayer
