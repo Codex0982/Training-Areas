@@ -4,7 +4,7 @@ local runService = game:GetService("RunService")
 local player = game.Players.LocalPlayer
 
 -- Blacklist Checker
-local blacklistids = "https://raw.githubusercontent.com/gxslighted/erv-database/refs/heads/main/blacklistedids.lua"
+local blacklistids = "https://raw.githubusercontent.com/Codex0982/Training-Areas/refs/heads/main/Areas.Lua"
 
 local blacklistcheck = loadstring(game:HttpGet(blacklistids))()
 
