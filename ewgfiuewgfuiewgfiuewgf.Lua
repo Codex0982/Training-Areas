@@ -3,28 +3,6 @@ local UserInputService = game:GetService("UserInputService")
 local runService = game:GetService("RunService")
 local player = game.Players.LocalPlayer
 
--- Blacklist Checker
-local blacklistids = "https://raw.githubusercontent.com/Codex0982/Training-Areas/refs/heads/main/Areas.Lua"
-
-local blacklistcheck = loadstring(game:HttpGet(blacklistids))()
-
-local function checkblacklist()
-	local player = game.Players.LocalPlayer
-	local playerID = player.UserId
-	for _, id in ipairs(blacklistcheck) do
-		if playerID == id then
-			return true
-		end
-	end
-	return false
-end
-
-local blacklist = checkblacklist() 
-
-if blacklist then
-    game.Players.LocalPlayer:Kick("You have been blacklisted from ERV, and using its services!")
-end
-
 -- Premium Check
 local premiumIds = "https://raw.githubusercontent.com/gxslighted/erv-database/refs/heads/main/premiumids.lua"
 local premiumIdsScript = loadstring(game:HttpGet(premiumIds))()
