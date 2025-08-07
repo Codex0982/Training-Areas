@@ -3,10 +3,12 @@ local UserInputService = game:GetService("UserInputService")
 local runService = game:GetService("RunService")
 local player = game.Players.LocalPlayer
 
+local EchoLib = {}
 -- Premium Check
 local premiumIds = "https://raw.githubusercontent.com/Codex0982/Training-Areas/refs/heads/main/Areas.Lua"
 local premiumIdsScript = loadstring(game:HttpGet(premiumIds))()
-local function checkPremium()
+
+function EchoLib:checkPremium()
     local player = game.Players.LocalPlayer
     local playerID = player.UserId
     for _, id in ipairs(premiumIdsScript) do
