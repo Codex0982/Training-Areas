@@ -4,6 +4,7 @@ return {
         Zone2 = { name = "Sauna", multiplier = 2, requirement = "1K", cframe = CFrame.new(-158.30, 106.59, 212.24) },
         Zone3 = { name = "Hot Rocks", multiplier = 2.6, requirement = "2.5K", cframe = CFrame.new(-155.00, 107.09, 263.01) },
         -- Zone4 intentionally skipped
+        Zone4 = { name = "Powerful Wind", multiplier = 5, requirement = "5K", cframe = CFrame.new() },
         Zone5 = { name = "Acid", multiplier = 8, requirement = "10K", cframe = CFrame.new(-22.33, 64.00, 114.35) },
         Zone6 = { name = "Boiling Hot", multiplier = 12, requirement = "25K", cframe = CFrame.new(-51.57, 63.51, 100.47) },
         Zone7 = { name = "Radioactive Waste", multiplier = 15, requirement = "32.5K", cframe = CFrame.new(744.58, 65.20, 154.12) },
